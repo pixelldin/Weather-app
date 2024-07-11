@@ -1,6 +1,3 @@
-Here is the README file with proper formatting so it can be copied and pasted correctly:
-
----
 
 # Weather App
 
